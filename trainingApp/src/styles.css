@@ -1,0 +1,42 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+@import '~bootstrap/dist/css/bootstrap.css';
+@import '~@angular/material/prebuilt-themes/indigo-pink.css';
+
+.bg-4fb3f9{
+    background: #4fb3f9;
+}
+
+.word-break-break-all{
+    word-break: break-all;
+}
+
+.f-s-1-rem{
+    font-size: 1rem;
+}
+
+.f-s-1-40-rem{
+    font-size: 1.40rem;
+}
+.mat-dialog-container{
+    padding: 0px !important;
+}
+.f-c-w{
+    color: #fff !important;
+}
+.width-100-percentage{
+    width: 100%;
+}
+body{
+    margin: 0 auto;
+    padding:0;
+    box-sizing: border-box;
+}
+.container-border{
+    border: 2px solid #0069b4;
+    height: 80vh;
+    margin: 3% auto;
+}
+example-card{
+    max-width: 400px;
+}
